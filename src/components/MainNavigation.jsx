@@ -5,7 +5,7 @@ function MainNavigation() {
     <header>
       <nav>
         <div>
-          <h1>English Football League</h1>
+          <h2>English Football League</h2>
           <ul>
             <li>
               <NavLink to="/">Home</NavLink>
