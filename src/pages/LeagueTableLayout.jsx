@@ -1,8 +1,8 @@
-import { Outlet } from 'react-router-dom';
-
 function TeamLayout() {
   return (
-    <Outlet />
+    <div>
+      Here you can see the league table
+    </div>
   );
 }
 
