@@ -1,5 +1,1 @@
-function TeamTable() {
-    return (
-        
-    )
-}
+function TeamTable() {}

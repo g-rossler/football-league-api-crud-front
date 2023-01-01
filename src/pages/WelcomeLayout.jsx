@@ -1,9 +1,7 @@
-import Welcome from '../components/Welcome';
+import Welcome from "../components/Welcome";
 
 function WelcomeLayout() {
-  return (
-    <Welcome />
-  );
+  return <Welcome />;
 }
 
 export default WelcomeLayout;

@@ -1,9 +1,5 @@
 function NewTeamLayout() {
-  return (
-    <div>
-      Create new team
-    </div>
-  );
+  return <div>Create new team</div>;
 }
 
 export default NewTeamLayout;
